@@ -15,4 +15,4 @@
 ## 额外说明
 利用threading模块通过多线程提高爬虫效率，最大线程数为8，可在代码中自行修改
 
-* 通过该爬虫学习了解BeautifulSoup的使用方法，初步接触Python爬虫，同时初步了解Python的多线程 *
+* 通过该爬虫学习了解BeautifulSoup的使用方法，初步接触Python爬虫，同时初步了解Python的多线程 
